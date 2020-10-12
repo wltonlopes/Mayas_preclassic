@@ -1,0 +1,16 @@
+{
+	"genericName": "Milpa",
+	"description": "Maize, beans, and squash.",
+	"cost": {"food": 300},
+	"requirements": {"tech": "phase_town"},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "irrigation.png",
+	"researchTime": 40,
+	"tooltip": "Farm Fields -50% cost and +20% build time.",
+	"modifications": [
+		{"value": "Cost/BuildTime", "multiply": 1.2},
+		{"value": "Cost/Resources/wood", "multiply": 0.5}
+	],
+	"affects": ["Field"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

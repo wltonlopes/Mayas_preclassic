@@ -1,0 +1,14 @@
+{
+	"genericName": "Astronomy and mathematics studies",
+	"cost": { "food": 0, "wood": 0, "stone": 0, "metal": 0 },
+	"requirements": { "all": [{ "tech": "phase_city" }, { "civ": "maya" }] },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "pers_hundred_columns.png",
+	"researchTime": 60,
+	"tooltip": "-25% build time for Civic Centers, Temples and Wonders.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.25 }
+	],
+	"affects": ["CivilCentre", "Wonder", "Ballcourt", "Temple"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

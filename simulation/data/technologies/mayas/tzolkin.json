@@ -1,0 +1,16 @@
+{
+	"genericName": "Tzolk'in (calendar)",
+	"description": "Using the calendar all units are able to collect or harvest 50% faster.",
+	"cost": { "food": 100, "wood": 200, "stone": 150, "metal": 0 },
+	"supersedes": "gather_farming_training",
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "olives.png",
+	"researchTime": 40,
+	"tooltip": "Workers +50% grain gather rate.",
+	"modifications": [
+		{ "value": "ResourceGatherer/Rates/food.grain", "multiply": 0.5 }
+	],
+	"affects": ["Worker"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

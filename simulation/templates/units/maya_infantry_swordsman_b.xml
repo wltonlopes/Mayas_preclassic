@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_axeman">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/maya_ball_court
+	  structures/maya_observatory
+	  structures/maya_theater
+    </Entities>
+  </Builder>
+  <Cost>
+    <Resources>
+      <stone>10</stone>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
+    <Builder>
+    <Entities datatype="tokens">
+      structures/maya_ball_court
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>maya</Civ>
+    <SelectionGroupName>units/zapo_infantry_swordsman_b</SelectionGroupName>
+    <GenericName>Axeman Warrior</GenericName>
+    <SpecificName>B'aat Bate</SpecificName>
+    <Icon>units/maya_axeman.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/maya_infantry_swordsman_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/elmirador/infantry_axeman_b.xml</Actor>
+  </VisualActor>
+</Entity>

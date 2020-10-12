@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Cost>
+    <BuildTime op="mul">0.75</BuildTime>
+    <Resources>
+      <food>60</food>
+      <metal>5</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>maya</Civ>
+    <GenericName>Nobreman champion infantry</GenericName>
+    <SpecificName>Witz Moo'</SpecificName>
+    <Icon>units/maya_champ_1.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.2</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/elmirador/infantry_spearman_nobreman.xml</Actor>
+  </VisualActor>
+</Entity>

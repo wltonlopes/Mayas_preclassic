@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="barracks">
+      <mesh>structural/elmirador_observatory.dae</mesh>
+      <props>
+        <prop actor="props/structures/decals/dirt_9x5.xml" attachpoint="root"/>
+		<prop actor="structures/elmirador/maya_baner.xml" attachpoint="baner_1"/>
+		<prop actor="structures/elmirador/maya_baner.xml" attachpoint="baner_2"/>
+		<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m_1"/>
+		<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m_2"/>
+      </props>
+      <textures>
+        <texture file="structural/mayans_struct.png" name="baseTex"/>
+        <texture file="structural/mayans_struct_spec.png" name="specTex"/>
+        <texture file="structural/mayans_struct_norm.png" name="normTex"/>
+        <texture file="structural/ao/elmirador_observatory_AO.png" name="aoTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="alive"/>
+    <variant name="death">
+      <props>
+        <prop attachpoint="garrisoned"/>
+        <prop actor="particle/destruction_smoke_small.xml" attachpoint="root"/>
+        <prop actor="particle/destruction_dust_small.xml" attachpoint="root"/>
+        <prop actor="particle/destruction_dust_small_gray.xml" attachpoint="root"/>
+        <prop actor="props/structures/decals/dirt_1x1.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>player_trans_ao_parallax_spec.xml</material>
+</actor>

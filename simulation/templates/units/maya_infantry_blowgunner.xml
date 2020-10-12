@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_blowgunner">
+
+  <Identity>
+    <Civ>maya</Civ>
+    <SelectionGroupName>units/maya_blowgunner</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Hunterblowgunner</VisibleClasses>
+    <GenericName>Maya blowgunner hunter</GenericName>
+    <SpecificName>A'nab</SpecificName>
+    <Icon>units/maya_blowgunner.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <TrainingRestrictions>
+    <Category>Hunterblowgunner</Category>
+  </TrainingRestrictions>
+  <VisualActor>
+    <Actor>units/elmirador/infantry_blowgunner.xml</Actor>
+  </VisualActor>
+</Entity>

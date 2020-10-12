@@ -1,0 +1,91 @@
+﻿{
+	"Code": "maya",
+	"Culture": "maya",
+	"Name": "Mayans Kaanul",
+	"Emblem": "session/portraits/emblems/emblem_mayas.png",
+	"History": " The Kingdowm preclassic of Kan in Peten.",
+	"Music":[
+			{"File":"Old New World.ogg", "Type":"peace"},
+			{"File":"Cloud_People.ogg", "Type":"peace"},
+			{"File":"Tradition.ogg", "Type":"peace"}
+		],
+	"Factions":
+	[],
+	"CivBonuses":
+	[
+		{
+			"Name": "Traditional Tactics.",
+			"History": "Zapotec soldiers favored melee and wore light armor.",
+			"Description": "Zapotec melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
+		}
+	],
+	"TeamBonuses":
+	[],
+	"Structures":
+	[
+		{
+			"Name":"Ball Court",
+			"Class":"SB",
+			"Emblem":"",
+			"History":".",
+			"Requirements":".",
+			"Phase":"City",
+			"Special":"."
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/maya_wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/maya_civil_centre"
+		},
+		{
+			"Template": "units/maya_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/maya_infantry_swordsman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/maya_infantry_javelineer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/maya_infantry_blowgunner",
+			"Count": 1
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line"
+	],
+	"AINames":
+	[
+		"1 Jaguar",
+		"King Snake"
+		
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_cavalry": "units/maya_infantry_blowgunner",
+		"skirmish/units/default_infantry_ranged_b": "units/maya_infantry_javelineer_b",
+	 "skirmish/units/default_infantry_melee_b": "units/maya_infantry_swordsman_b",
+	 "skirmish/structures/default_house_10": "structures/{civ}_house",
+	 "skirmish/units/default_ship_trireme":"units/maya_ship_bireme"
+	},
+	"SelectableInGameSetup": true
+}

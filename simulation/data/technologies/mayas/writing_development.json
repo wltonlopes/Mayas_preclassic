@@ -1,0 +1,18 @@
+{
+	"genericName": "breakthrough in hieroglyphic writing",
+	"specificName": {
+		"maya": "Writing development Maya"
+	},
+	"description": "With the development of a Mayan script all technologies cost -20% of time.",
+	"cost": {"food": 100, "wood": 0, "stone": 100, "metal": 0},
+	"requirements": {"all": [{"tech": "phase_town"}, {"civ": "maya"}]},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "Hieroglyphic.png",
+	"researchTime": 90,
+	"tooltip": "Advancer the hieroglyphic mayan.",
+	"modifications": [
+		{"value": "Cost/BuildTime", "multiply": 0.8}
+	],
+	"affects": ["Technologies"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

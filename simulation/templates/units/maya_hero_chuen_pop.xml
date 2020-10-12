@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman_hoplite">
+  <Identity>
+    <Civ>maya</Civ>
+    <GenericName>Ahaw 7chuen 19 pop</GenericName>
+    <SpecificName>Ahaw 7chuen 19 pop</SpecificName>
+    <Icon>units/athen_hero_pericles.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/elmirador/hero_infantry_spearman_king2.xml</Actor>
+  </VisualActor>
+</Entity>

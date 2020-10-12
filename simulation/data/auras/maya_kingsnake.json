@@ -1,0 +1,12 @@
+{
+	"type": "global",
+    "radius": 40,
+	"affects": ["Soldier"],
+	"modifications": [
+	{ "value": "UnitMotion/WalkSpeed", "multiply": 1.2 },
+	{ "value": "Attack/Melee/RepeatTime", "add": -200 }
+	],
+	"auraName": "Swift Camouflage Maneuvers",
+	"auraDescription": "All Soldiers +20% walk speed and +15% bonus melee units in Aura.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

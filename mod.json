@@ -1,0 +1,8 @@
+{
+	"name": "pre_classic elmirador",
+	"version": "0.0.24",
+	"label": "0.A.D.Elmirador",
+	"url": "forum.wildfiregames.com",
+	"description": "Adds maya civilization to 0 A.D.",
+	"dependencies": ["0ad>=0.0.24"]
+}
