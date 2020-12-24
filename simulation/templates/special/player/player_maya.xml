@@ -2,9 +2,13 @@
 <Entity parent="special/player/player">
     <EntityLimits>
     <Limits>
+      <Bigtemplecoloniacity>0</Bigtemplecoloniacity>
       <Hunterblowgunner>0</Hunterblowgunner>
     </Limits>
     <LimitChangers>
+      <Bigtemplecoloniacity>
+        <CivilCentre>2</CivilCentre>
+      </Bigtemplecoloniacity>
       <Hunterblowgunner>
         <CivilCentre>10</CivilCentre>
       </Hunterblowgunner>

@@ -9,7 +9,6 @@
 		<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="2"/>
 		<prop actor="structures/elmirador/stall_meso_m.xml" attachpoint="3"/>
 		<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="4"/>
-		<prop actor="structures/elmirador/stall_meso_m.xml" attachpoint="5"/>
       </props>
       <textures>
         <texture file="structural/mayans_struct.png" name="baseTex"/>
