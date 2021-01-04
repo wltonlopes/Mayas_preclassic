@@ -4,7 +4,7 @@
     <Entities datatype="tokens">
       structures/maya_ball_court
 	  structures/maya_observatory
-	  structures/maya_new_temple
+	  structures/maya_colony
     </Entities>
   </Builder>
   <Cost>
@@ -20,13 +20,13 @@
   </Builder>
   <Identity>
     <Civ>maya</Civ>
-    <SelectionGroupName>units/zapo_infantry_swordsman_b</SelectionGroupName>
+    <SelectionGroupName>units/infantry_axeman_b</SelectionGroupName>
     <GenericName>Axeman Warrior</GenericName>
     <SpecificName>B'aat Bate</SpecificName>
     <Icon>units/maya_axeman.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/maya_infantry_swordsman_a</Entity>
+    <Entity>units/maya_infantry_axeman_a</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/elmirador/infantry_axeman_b.xml</Actor>

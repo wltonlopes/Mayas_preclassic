@@ -4,7 +4,7 @@
     <Entities datatype="tokens">
       structures/maya_ball_court
 	  structures/maya_observatory
-	  structures/maya_new_temple
+	  structures/maya_colony
     </Entities>
   </Builder>
   <Identity>

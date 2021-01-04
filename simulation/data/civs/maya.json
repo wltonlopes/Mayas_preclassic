@@ -1,7 +1,7 @@
 ﻿{
 	"Code": "maya",
 	"Culture": "maya",
-	"Name": "Mayans Kaanul",
+	"Name": "Mayans",
 	"Emblem": "session/portraits/emblems/emblem_mayas.png",
 	"History": " The Kingdowm preclassic of Kan in Peten.",
 	"Music":[
@@ -48,7 +48,7 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/maya_infantry_swordsman_b",
+			"Template": "units/maya_infantry_axeman_b",
 			"Count": 2
 		},
 		{
@@ -76,14 +76,19 @@
 	"AINames":
 	[
 		"1 Jaguar",
-		"King Snake"
-		
+		"King Snake",
+	        "White Owl Jaguar",
+	        "Yax Ehb Xook",
+                "Ch'a Ruler I",
+               "U-K'ix-Chan",
+		"7 chuen 19 Pop",
+		"10 Imix 14 Yaxkin"
 	],
 	"SkirmishReplacements":
 	{
 		"skirmish/units/default_cavalry": "units/maya_infantry_blowgunner",
 		"skirmish/units/default_infantry_ranged_b": "units/maya_infantry_javelineer_b",
-	 "skirmish/units/default_infantry_melee_b": "units/maya_infantry_swordsman_b",
+	 "skirmish/units/default_infantry_melee_b": "units/maya_infantry_axeman_b",
 	 "skirmish/structures/default_house_10": "structures/{civ}_house",
 	 "skirmish/units/default_ship_trireme":"units/maya_ship_bireme"
 	},

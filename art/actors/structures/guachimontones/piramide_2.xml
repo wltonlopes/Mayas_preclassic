@@ -3,18 +3,14 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="cc">
-      <mesh>structural/elmirador_cc.dae</mesh>
+      <mesh>structural/guachimontones/piramide2.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
-        <prop actor="props/structures/elmirador_stelae.xml" attachpoint="stella"/>
-        <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
-        <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
       </props>
       <textures>
-        <texture file="structural/mayans_struct.png" name="baseTex"/>
-        <texture file="structural/mayans_struct_spec.png" name="specTex"/>
-        <texture file="structural/mayans_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_cc_AO.png" name="aoTex"/>
+        <texture file="structural/guachimontones_struct.png" name="baseTex"/>
+        <texture file="structural/guachimontones_struct_spec.png" name="specTex"/>
+        <texture file="structural/guachimontones_struct_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>
@@ -38,5 +34,5 @@
       </props>
     </variant>
   </group>
-  <material>player_trans_ao_parallax_spec.xml</material>
+  <material>player_trans_parallax_spec.xml</material>
 </actor>
