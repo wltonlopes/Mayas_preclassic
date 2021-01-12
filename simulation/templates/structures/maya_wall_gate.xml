@@ -1,14 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defensive_wall_gate">
+  <Footprint>
+    <Square width="35.0" depth="8.0"/>
+    <Height>11.6</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>5</Max>
+  </GarrisonHolder>
   <Identity>
     <Civ>maya</Civ>
-      <GenericName>Wall Gate</GenericName>
     <SpecificName>Joonaj</SpecificName>
   </Identity>
+  <Obstruction>
+    <Obstructions>
+      <Right width="10" depth="7" x="12" z="0"/>
+      <Left width="10" depth="7" x="-12" z="0"/>
+      <Door width="14" depth="7" x="0" z="0"/>
+    </Obstructions>
+  </Obstruction>
+  <StatusBars>
+    <HeightOffset>12.6</HeightOffset>
+  </StatusBars>
+  <TurretHolder>
+    <TurretPoints>
+      <One>
+        <X>0</X>
+        <Y>7.0</Y>
+        <Z>0</Z>
+      </One>
+      <Two>
+        <X>3</X>
+        <Y>7.0</Y>
+        <Z>0</Z>
+      </Two>
+      <Three>
+        <X>-3</X>
+        <Y>7.0</Y>
+        <Z>0</Z>
+      </Three>
+      <Four>
+        <X>6</X>
+        <Y>7.0</Y>
+        <Z>0</Z>
+      </Four>
+      <Five>
+        <X>-6</X>
+        <Y>7.0</Y>
+        <Z>0</Z>
+      </Five>
+    </TurretPoints>
+  </TurretHolder>
   <VisualActor>
     <Actor>structures/elmirador/wall_gate.xml</Actor>
   </VisualActor>
   <WallPiece>
-    <Length>34.1</Length>
+    <Length>34</Length>
   </WallPiece>
 </Entity>
