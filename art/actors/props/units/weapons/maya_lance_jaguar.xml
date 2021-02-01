@@ -9,8 +9,18 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="akin">
-      <mesh>props/weapon/maya_spear.dae</mesh>
+
+        <variant frequency="1" name="1">
+      <mesh>props/weapon/maya_spear_1.dae</mesh>
+    </variant>
+        <variant frequency="1" name="2">
+      <mesh>props/weapon/maya_spear_2.dae</mesh>
+    </variant>
+    <variant frequency="1" name="3">
+      <mesh>props/weapon/maya_spear_3.dae</mesh>
+    </variant>
+        <variant frequency="1" name="4">
+      <mesh>props/weapon/maya_spear_4.dae</mesh>
     </variant>
   </group>
   <material>player_trans.xml</material>

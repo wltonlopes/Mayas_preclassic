@@ -14,7 +14,7 @@
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/maya_isl_a_1.png" name="baseTex"/>
+        <texture file="skeletal/meso_1.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
@@ -25,7 +25,7 @@
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-	    <texture file="skeletal/maya_isl_a_2.png" name="baseTex"/>
+	    <texture file="skeletal/meso_1.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
@@ -35,7 +35,7 @@
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-	    <texture file="skeletal/maya_isl_a_3.png" name="baseTex"/>
+	    <texture file="skeletal/meso_2.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
