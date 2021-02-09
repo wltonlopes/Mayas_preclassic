@@ -2,16 +2,17 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Scout_Tower">
+    <variant frequency="1" name="wonder">
       <mesh>structural/ladanta.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
-		<prop actor="particle/flame_firepit_2.xml" attachpoint="3"/>
+        <prop actor="structures/elmirador/ladanta_masc.xml" attachpoint="root"/>
+	<prop actor="particle/flame_firepit_2.xml" attachpoint="3"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="2"/>
-		<prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
+	<prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="3"/>
-		<prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_1"/>
+	<prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_1"/>
 	    <prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_2"/>
       </props>
       <textures>

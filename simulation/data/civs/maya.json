@@ -15,8 +15,8 @@
 	[
 		{
 			"Name": "Traditional Tactics.",
-			"History": "Zapotec soldiers favored melee and wore light armor.",
-			"Description": "Zapotec melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
+			"History": "Mayas soldiers favored melee and wore light armor.",
+			"Description": "Maya melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
 		}
 	],
 	"TeamBonuses":

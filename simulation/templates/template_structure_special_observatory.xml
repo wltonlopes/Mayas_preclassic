@@ -2,7 +2,7 @@
 <Entity parent="template_structure_special">
   <Auras datatype="tokens">
     structures/library
-	structures/theater
+    structures/theater
   </Auras>
   <BuildRestrictions>
     <Category>Library</Category>
@@ -37,9 +37,7 @@
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Technologies datatype="tokens">
 	   mayas/astronomy
-	   mayas/milpa
 	   mayas/mathematics_and_administration
-	   mayas/writing_development
 	   mayas/tzolkin
     </Technologies>
   </ProductionQueue>

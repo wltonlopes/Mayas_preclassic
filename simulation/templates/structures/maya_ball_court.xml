@@ -12,9 +12,6 @@
     <Square width="30.0" depth="30.0"/>
     <Height>8.0</Height>
   </Footprint>
-  <GarrisonHolder>
-    <Max>10</Max>
-  </GarrisonHolder>
   <Health>
     <Max>2000</Max>
   </Health>
@@ -24,8 +21,7 @@
     <GenericName>Ballcourt</GenericName>
     <SpecificName>Pitzil</SpecificName>
     <Tooltip>Train champion units.</Tooltip>
-    <Icon>structures/gymnasium.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+	 <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
     <wood>0</wood>
@@ -38,12 +34,15 @@
   <ProductionQueue>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-	  units/{civ}_hero_chuen_pop
-	  units/{civ}_hero_imix_yaxkin
-         units/{civ}_champion_infantry
-         units/{civ}_champion_infantry_nobre
+	  units/{civ}_hero_7chuen19 pop
+	  units/{civ}_hero_10Imix14Yaxkinxml
+	  units/{civ}_champion_jaguar_warrior
+	  units/{civ}_champion_night_warrior
 	  units/{civ}_infantry_fireman
     </Entities>
+    <Technologies datatype="tokens">
+       upgrade_rank_advanced_infantry
+    </Technologies>
   </ProductionQueue>
   <Sound>
     <SoundGroups>

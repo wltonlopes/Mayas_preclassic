@@ -30,6 +30,27 @@
         <texture file="skeletal/maya_fem_spec.png" name="specTex"/>
       </textures>
     </variant>
+            <variant frequency="1" name="4">
+      <mesh>skeletal/new/f_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/maya_f_4.png" name="baseTex"/>
+        <texture file="skeletal/maya_fem_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+            <variant frequency="1" name="5">
+      <mesh>skeletal/new/f_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/maya_f_5.png" name="baseTex"/>
+        <texture file="skeletal/maya_fem_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+            <variant frequency="1" name="6">
+      <mesh>skeletal/new/f_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/maya_f_6.png" name="baseTex"/>
+        <texture file="skeletal/maya_fem_spec.png" name="specTex"/>
+      </textures>
+    </variant>
   </group>
   <group>
     <!-- In this group, defined overloads for "Idle", "Walk" and "Run" -->

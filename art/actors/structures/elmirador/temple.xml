@@ -17,17 +17,17 @@
       </textures>
     </variant>
         <variant frequency="25" name="temple_a">
-      <mesh>structural/elmirador_temple.dae</mesh>
+      <mesh>structural/elmirador_temple_b.dae</mesh>
       <props>
-        <prop actor="particle/smoke_blacksmith.xml" attachpoint="1"/>
-        <prop actor="particle/smoke_blacksmith.xml" attachpoint="2"/>
-        <prop actor="props/structures/elmirador_bigtemple.xml" attachpoint="root"/>
+        <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
+        <prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
+        <prop actor="particle/smoke_small_light.xml" attachpoint="2"/>
       </props>
       <textures>
         <texture file="structural/mayans_struct.png" name="baseTex"/>
         <texture file="structural/mayans_struct_spec.png" name="specTex"/>
         <texture file="structural/mayans_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_temple_AO.png" name="aoTex"/>
+        <texture file="structural/ao/elmirador_temple_b_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

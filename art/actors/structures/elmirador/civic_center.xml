@@ -9,6 +9,7 @@
         <prop actor="props/structures/elmirador_stelae.xml" attachpoint="stella"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
+        <prop actor="structures/elmirador/maya_masks_cc.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/mayans_struct.png" name="baseTex"/>

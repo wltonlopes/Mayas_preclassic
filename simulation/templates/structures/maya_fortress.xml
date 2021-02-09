@@ -17,9 +17,6 @@
   </VisualActor>
     <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_mechanical_siege_ram
-      units/{civ}_champion_infantry_fireman
-     units/{civ}_champion_infantry
       units/{civ}_champion_infantry_nobre
     </Entities>
   </ProductionQueue>

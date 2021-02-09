@@ -6,8 +6,8 @@
       <mesh>structural/elmirador_eltigre.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
-		<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m1"/>
-		<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m2"/>
+	<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m1"/>
+	<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m2"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
       </props>

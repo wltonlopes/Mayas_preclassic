@@ -6,7 +6,7 @@
   </Identity>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_infantry_swordsman_b
+      units/{civ}_infantry_axeman_b
       units/{civ}_infantry_javelineer_b
       units/{civ}_infantry_spearman_b
       units/{civ}_infantry_blowgunner

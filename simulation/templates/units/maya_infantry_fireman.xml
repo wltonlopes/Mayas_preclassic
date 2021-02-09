@@ -4,11 +4,11 @@
     <Melee>
       <Damage>
         <Pierce>10</Pierce>
-        <Crush>19</Crush>
+        <Crush>39</Crush>
       </Damage>
 	  <MaxRange>6.0</MaxRange>
-      <PrepareTime>4000</PrepareTime>
-      <RepeatTime>5000</RepeatTime>
+         <PrepareTime>4000</PrepareTime>
+         <RepeatTime>5000</RepeatTime>
 	  	  <Bonuses>
 		<BonusGates>
 		  <Classes>Gates</Classes>
@@ -35,6 +35,9 @@
     <Tooltip>siege fire man</Tooltip>
     <Icon>units/kush_champion_apedemak.png</Icon>
   </Identity>
+    <Health>
+    <Max>100</Max>
+  </Health>
   <Promotion disable=""/>
   <VisualActor>
     <Actor>units/elmirador/infantry_fireman_f.xml</Actor>

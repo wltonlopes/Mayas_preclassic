@@ -2,14 +2,14 @@
 <Entity parent="template_unit_siege_ram">
   <Attack>
     <Melee>
-	 <Damage>
+     <Damage>
       <Hack>0.0</Hack>
       <Pierce>0.0</Pierce>
       <Crush>75.0</Crush>
-	 </Damage>
-      <MaxRange>7.5</MaxRange>
-      <PrepareTime>950</PrepareTime>
-      <RepeatTime>1700</RepeatTime>
+      </Damage>
+      <MaxRange>8.5</MaxRange>
+      <PrepareTime>850</PrepareTime>
+      <RepeatTime>800</RepeatTime>
     </Melee>
   </Attack>
   <Footprint replace="">
@@ -22,7 +22,7 @@
     <Icon>units/inca_mechanical_siege_ram.png</Icon>
   </Identity>
   <Health>
-    <Max>200</Max>
+    <Max>300</Max>
   </Health>
   <Sound>
     <SoundGroups>

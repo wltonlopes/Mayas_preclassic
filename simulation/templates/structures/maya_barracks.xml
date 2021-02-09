@@ -27,7 +27,9 @@
     <Entities datatype="tokens">
       units/{civ}_champion_infantry_nobre
       units/{civ}_infantry_spearman_b
-    </Entities>
+      units/{civ}_infantry_fireman
+      units/{civ}_mechanical_siege_ram
+     </Entities>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/elmirador/barracks.xml</Actor>
