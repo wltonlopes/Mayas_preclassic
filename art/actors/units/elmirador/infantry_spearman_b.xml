@@ -12,6 +12,7 @@
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/maya_shield_c_basic.xml" attachpoint="shield"/>
       </props>
       <textures>
         <texture file="skeletal/maya_isl_a_1.png" name="baseTex"/>
@@ -23,6 +24,7 @@
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/maya_shield_c_basic.xml" attachpoint="shield"/>
       </props>
       <textures>
 	    <texture file="skeletal/maya_isl_a_2.png" name="baseTex"/>
@@ -33,6 +35,7 @@
      <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/maya_shield_c_basic.xml" attachpoint="shield"/>
       </props>
       <textures>
 	    <texture file="skeletal/maya_isl_a_3.png" name="baseTex"/>
