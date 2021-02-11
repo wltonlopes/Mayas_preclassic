@@ -19,7 +19,7 @@
       </textures>
     </variant>
      <variant frequency="100" name="3">
-      <mesh>props/helmet/maya_f.dae</mesh>
+      <mesh>props/helmet/maya_f_1.dae</mesh>
       <textures>
         <texture file="structural/mayans_struct.png" name="baseTex"/>
         <texture file="structural/mayans_struct_spec.png" name="specTex"/>

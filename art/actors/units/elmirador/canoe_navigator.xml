@@ -28,6 +28,7 @@
   </group>
   <group>
     <variant frequency="100" name="Idle"/>
+    <variant file="biped/fisher/gather_fish.xml"/>
     <variant file="biped/death_infantry.xml"/>
   </group>
   <material>player_trans.xml</material>
