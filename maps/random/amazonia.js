@@ -56,13 +56,14 @@ const heightScale = num => num * g_MapSettings.Size / 320;
 
 const heightReedsMin = heightScale(-2);
 const heightShallow = heightScale(-1);
-const heightWaterLevel = heightScale(0);
-const heightShoreline = heightScale(3);
-const heightPlayer = heightScale(10);
+const heightWaterLevel = heightScale(0,5);
+const heightShoreline = heightScale(1,5);
+const heightPlayer = heightScale(7);
 
 const oTiger = "gaia/fauna_jaguar";
 const oBoar = "gaia/fauna_boar";
 const oFox = "gaia/fauna_fox_gray";
+const oBuzzard = "birds/buzzard";
 
 
 const g_Map = new RandomMap(0, g_Terrains.mainTerrain);
@@ -76,7 +77,7 @@ var clFood = g_Map.createTileClass();
 
 initTileClasses(["shoreline", "shallows"]);
 
-g_Map.LoadHeightmapImage("peten.png", -3, 20);
+g_Map.LoadHeightmapImage("amazonia.png", -3, 20);
 Engine.SetProgress(15);
 
 g_Map.log("Smoothing heightmap");
@@ -130,7 +131,18 @@ createObjectGroupsDeprecated(
 		true, clFood
 	),
 	0,
-	avoidClasses(clFood, 11),
+	avoidClasses(clFood, 8),
+	scaleByMapSize(4, 12), 50
+);
+
+g_Map.log("Creating buzzard");
+createObjectGroupsDeprecated(
+	new SimpleGroup(
+		[new SimpleObject(oBuzzard, 1, 2, 0, 4)],
+		true, clFood
+	),
+	0,
+	avoidClasses(clFood,1),
 	scaleByMapSize(4, 12), 50
 );
 

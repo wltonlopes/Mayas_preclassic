@@ -4,7 +4,7 @@
     <Civ>maya</Civ>
     <GenericName>Ahaw 10 Imix 14 Yaxkin</GenericName>
     <SpecificName>Ahaw 10 Imix 14 Yaxkin</SpecificName>
-    <Icon>units/athen_hero_pericles.png</Icon>
+    <Icon>units/maya_king_1.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/elmirador/hero_infantry_spearman_king.xml</Actor>

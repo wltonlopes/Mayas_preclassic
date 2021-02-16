@@ -38,11 +38,8 @@
 	  units/{civ}_hero_10Imix14Yaxkinxml
 	  units/{civ}_champion_jaguar_warrior
 	  units/{civ}_champion_night_warrior
-	  units/{civ}_infantry_fireman
+         units/{civ}_infantry_incendiary
     </Entities>
-    <Technologies datatype="tokens">
-       upgrade_rank_advanced_infantry
-    </Technologies>
   </ProductionQueue>
   <Sound>
     <SoundGroups>
