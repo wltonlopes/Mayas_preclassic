@@ -2,8 +2,8 @@
 	"Code": "maya",
 	"Culture": "maya",
 	"Name": "Mayans",
-	"Emblem": "session/portraits/emblems/emblem_mayas.png",
-	"History": " The Kingdowm preclassic of Kan in Peten.",
+	"Emblem": "session/portraits/emblems/emblem_maya.png",
+	"History": " The Kingdowm preclassic of maya in Peten.",
 	"Music":[
 			{"File":"Old New World.ogg", "Type":"peace"},
 			{"File":"Cloud_People.ogg", "Type":"peace"},
@@ -25,6 +25,24 @@
 	[
 		{
 			"Name":"Ball Court",
+			"Class":"SB",
+			"Emblem":"",
+			"History":".",
+			"Requirements":".",
+			"Phase":"City",
+			"Special":"."
+		},
+		{
+			"Name":"Observatory grup E",
+			"Class":"SB",
+			"Emblem":"",
+			"History":".",
+			"Requirements":".",
+			"Phase":"City",
+			"Special":"."
+		},
+		{
+			"Name":"Big temple of masks",
 			"Class":"SB",
 			"Emblem":"",
 			"History":".",
@@ -86,8 +104,8 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/maya_infantry_blowgunner",
-		"skirmish/units/default_infantry_ranged_b": "units/maya_infantry_javelineer_b",
+	 "skirmish/units/default_cavalry": "units/maya_infantry_blowgunner",
+	 "skirmish/units/default_infantry_ranged_b": "units/maya_infantry_javelineer_b",
 	 "skirmish/units/default_infantry_melee_b": "units/maya_infantry_axeman_b",
 	 "skirmish/structures/default_house_10": "structures/{civ}_house",
 	 "skirmish/units/default_ship_trireme":"units/maya_ship_bireme"
