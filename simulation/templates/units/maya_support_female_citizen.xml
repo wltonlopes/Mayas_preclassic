@@ -11,7 +11,7 @@
     <Civ>maya</Civ>
     <SpecificName>ixik</SpecificName>
     <GenericName>Maya Woman</GenericName>
-    <Icon>units/ptol_support_female_citizen.png</Icon>
+    <Icon>units/maya_woman.png</Icon>
     <SelectionGroupName>units/maya_support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>

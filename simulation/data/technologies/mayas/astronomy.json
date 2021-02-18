@@ -1,14 +1,16 @@
 {
-	"genericName": "Astronomy and mathematics studies",
-	"cost": { "food": 0, "wood": 0, "stone": 0, "metal": 0 },
-	"requirements": { "all": [{ "tech": "phase_city" }, { "civ": "maya" }] },
+	"genericName": "Calendar and Astronomy",
+	"description": "Preparations for each season with the highest possible precision.",
+	"cost": { "food": 0, "wood": 400, "stone": 0, "metal": 300 },
+	"supersedes": "gather_farming_training",
+	"requirements": { "tech": "phase_city" },
 	"requirementsTooltip": "Unlocked in City Phase.",
-	"icon": "pers_hundred_columns.png",
+	"icon": "olives.png",
 	"researchTime": 60,
-	"tooltip": "-25% build time for Civic Centers, Temples and Wonders.",
+	"tooltip": "Workers +100% grain gather rate.",
 	"modifications": [
-		{ "value": "Cost/BuildTime", "multiply": 0.25 }
+		{ "value": "ResourceGatherer/Rates/food.grain", "multiply": 2 }
 	],
-	"affects": ["CivilCentre", "Wonder", "Ballcourt", "Temple"],
+	"affects": ["Worker"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

@@ -14,9 +14,9 @@
 	"CivBonuses":
 	[
 		{
-			"Name": "Traditional Tactics.",
-			"History": "Mayas soldiers favored melee and wore light armor.",
-			"Description": "Maya melee infantry have +1.5 walk speed and do +1 hack damage at the cost of 1 pierce armor level."
+			"Name": "Monumental Constructions.",
+			"History": "The Maya created great structures of stone and lime of great resistance.",
+			"Description": "Structures +10% health, +20 time and +5% capture points."
 		}
 	],
 	"TeamBonuses":
@@ -29,7 +29,7 @@
 			"Emblem":"",
 			"History":".",
 			"Requirements":".",
-			"Phase":"City",
+			"Phase":"Town",
 			"Special":"."
 		},
 		{
@@ -38,7 +38,7 @@
 			"Emblem":"",
 			"History":".",
 			"Requirements":".",
-			"Phase":"City",
+			"Phase":"Town",
 			"Special":"."
 		},
 		{

@@ -77,7 +77,7 @@ var clFood = g_Map.createTileClass();
 
 initTileClasses(["shoreline", "shallows"]);
 
-g_Map.LoadHeightmapImage("amazonia.png", -3, 20);
+g_Map.LoadHeightmapImage("tropical_river.png", -3, 20);
 Engine.SetProgress(15);
 
 g_Map.log("Smoothing heightmap");

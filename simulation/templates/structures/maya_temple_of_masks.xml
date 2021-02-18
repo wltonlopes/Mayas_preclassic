@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_special">
+   <Auras datatype="tokens">
+    structures/theater
+  </Auras>
   <Cost>
     <BuildTime>350</BuildTime>
     <Resources>
@@ -24,7 +27,7 @@
     <GenericName>Temple of masks</GenericName>
     <SpecificName>Noj witz</SpecificName>
     <Tooltip>Train champion units.</Tooltip>
-    <Icon>structures/gymnasium.png</Icon>
+    <Icon>structures/tholos.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
@@ -39,7 +42,8 @@
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
 	  units/{civ}_hero_chuen_pop
-	  units/{civ}_hero_imix_yaxkin
+	  units/{civ}_hero_ukix_chan
+	  units/{civ}_hero_white_owl_jaguar
     </Entities>
   </ProductionQueue>
   <Sound>

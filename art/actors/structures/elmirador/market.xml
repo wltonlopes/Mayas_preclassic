@@ -6,10 +6,13 @@
       <mesh>structural/elmirador_market.dae</mesh>
       <props>
         <prop actor="structures/elmirador/stall_meso_b.xml" attachpoint="1"/>
-		<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="2"/>
-		<prop actor="structures/elmirador/stall_meso_m.xml" attachpoint="3"/>
-		<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="4"/>
+	<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="2"/>
+	<prop actor="structures/elmirador/stall_meso_m.xml" attachpoint="3"/>
+	<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="4"/>
 	<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="5"/>
+	<prop actor="structures/elmirador/stall_meso_m.xml" attachpoint="6"/>
+	<prop actor="structures/elmirador/stall_meso_m2.xml" attachpoint="7"/>
+	<prop actor="structures/elmirador/stall_meso_m.xml" attachpoint="8"/>
       </props>
       <textures>
         <texture file="structural/mayans_struct.png" name="baseTex"/>
