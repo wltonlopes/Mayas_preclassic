@@ -5,6 +5,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/elmirador/infantry_javelineer_e.xml</Actor>
+    <Actor>units/maya/infantry_javelineer_e.xml</Actor>
   </VisualActor>
 </Entity>

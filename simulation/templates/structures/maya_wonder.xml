@@ -28,6 +28,6 @@
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/elmirador/wonder.xml</Actor>
+    <Actor>structures/maya/wonder.xml</Actor>
   </VisualActor>
 </Entity>

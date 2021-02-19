@@ -14,6 +14,6 @@
     <Category>Hunterblowgunner</Category>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/elmirador/infantry_blowgunner.xml</Actor>
+    <Actor>units/maya/infantry_blowgunner.xml</Actor>
   </VisualActor>
 </Entity>

@@ -18,6 +18,6 @@
     <WalkSpeed op="mul">1.2</WalkSpeed>
   </UnitMotion>
   <VisualActor>
-    <Actor>units/elmirador/infantry_spearman_nobreman.xml</Actor>
+    <Actor>units/maya/infantry_spearman_nobreman.xml</Actor>
   </VisualActor>
 </Entity>

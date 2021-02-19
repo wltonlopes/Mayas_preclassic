@@ -42,7 +42,7 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>structures/elmirador/observatory.xml</Actor>
+    <Actor>structures/maya/observatory.xml</Actor>
     <FoundationActor>structures/fndn_8x9.xml</FoundationActor>
   </VisualActor>
 </Entity>

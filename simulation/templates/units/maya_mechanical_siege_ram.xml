@@ -24,17 +24,6 @@
   <Health>
     <Max>300</Max>
   </Health>
-  <Sound>
-    <SoundGroups>
-      <select>voice/{lang}/civ/civ_{gender}_select.xml</select>
-      <order_walk>voice/{lang}/civ/civ_{gender}_walk.xml</order_walk>
-      <order_attack>voice/{lang}/civ/civ_{gender}_attack.xml</order_attack>
-      <order_garrison>voice/{lang}/civ/civ_{gender}_garrison.xml</order_garrison>
-      <walk>actor/human/movement/walk.xml</walk>
-      <run>actor/human/movement/run.xml</run>
-      <death>actor/human/death/{gender}_death.xml</death>
-    </SoundGroups>
-  </Sound>
   <Cost>
     <Resources>
       <metal>0</metal>
@@ -44,6 +33,6 @@
     <WalkSpeed>4</WalkSpeed>
   </UnitMotion>
   <VisualActor>
-    <Actor>structures/elmirador/siege_ram_pivot.xml</Actor>
+    <Actor>structures/maya/siege_ram_pivot.xml</Actor>
   </VisualActor>
 </Entity>

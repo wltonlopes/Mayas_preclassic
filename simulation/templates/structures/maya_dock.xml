@@ -13,7 +13,7 @@
     <Static width="22.0" depth="24.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/elmirador/dock.xml</Actor>
+    <Actor>structures/maya/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
   </VisualActor>
   <ProductionQueue>

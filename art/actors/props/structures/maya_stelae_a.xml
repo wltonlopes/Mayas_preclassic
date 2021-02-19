@@ -9,9 +9,9 @@
         <prop actor="particle/smoke_blacksmith.xml" attachpoint="1"/>
       </props>
       <textures>
-        <texture file="structural/mayans_struct.png" name="baseTex"/>
-        <texture file="structural/mayans_struct_spec.png" name="specTex"/>
-        <texture file="structural/mayans_struct_norm.png" name="normTex"/>
+        <texture file="structural/maya_struct.png" name="baseTex"/>
+        <texture file="structural/maya_struct_spec.png" name="specTex"/>
+        <texture file="structural/maya_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/maya_stelae_a_AO.png" name="aoTex"/>
       </textures>
     </variant>

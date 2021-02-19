@@ -11,6 +11,6 @@
     <Entity>units/maya_support_healer_a</Entity>
   </Promotion> 
   <VisualActor>
-    <Actor>units/elmirador/healer.xml</Actor>
+    <Actor>units/maya/healer.xml</Actor>
   </VisualActor>
 </Entity> 

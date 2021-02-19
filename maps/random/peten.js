@@ -398,7 +398,7 @@ placePlayersNomad(
 			g_TileClasses.animals, 1)
 	]);
 
-setSunColor(0.733, 0.746, 0.574);
+setSunColor(0.743, 0.746, 0.574);
 
 setWaterHeight(20 + heightWaterLevel);
 setWaterTint(0.224, 0.271, 0.270);
@@ -412,8 +412,8 @@ setTerrainAmbientColor(0.521, 0.475, 0.322);
 setSunRotation(-Math.PI);
 setSunElevation(Math.PI / 6.25);
 
-setFogFactor(2);
-setFogThickness(2);
+setFogFactor(4);
+setFogThickness(5);
 setFogColor(0.69, 0.616, 0.541);
 
 setPPEffect("hdr");

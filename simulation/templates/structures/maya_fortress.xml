@@ -13,7 +13,7 @@
     <Static width="60" depth="40.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/elmirador/fortress.xml</Actor>
+    <Actor>structures/maya/fortress.xml</Actor>
   </VisualActor>
     <ProductionQueue>
     <Entities datatype="tokens">

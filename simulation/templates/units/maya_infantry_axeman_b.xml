@@ -29,6 +29,6 @@
     <Entity>units/maya_infantry_axeman_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/elmirador/infantry_axeman_b.xml</Actor>
+    <Actor>units/maya/infantry_axeman_b.xml</Actor>
   </VisualActor>
 </Entity>

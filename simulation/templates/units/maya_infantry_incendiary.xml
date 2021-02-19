@@ -41,6 +41,6 @@
   </Health>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/elmirador/infantry_incendiary.xml</Actor>
+    <Actor>units/maya/infantry_incendiary.xml</Actor>
   </VisualActor>
 </Entity>

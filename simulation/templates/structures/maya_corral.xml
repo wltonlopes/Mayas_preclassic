@@ -26,7 +26,7 @@
     </Technologies>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/elmirador/corral.xml</Actor>
+    <Actor>structures/maya/corral.xml</Actor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>
   </VisualActor>
 </Entity>

@@ -23,7 +23,7 @@
     <Category>Bigtemplecoloniacity</Category>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>structures/elmirador/cc_satelite.xml</Actor>
+    <Actor>structures/maya/cc_satelite.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

@@ -6,6 +6,6 @@
     <Icon>units/ptol_ship_fishing.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/elmirador/canoe.xml</Actor>
+    <Actor>structures/maya/canoe.xml</Actor>
   </VisualActor>
 </Entity>

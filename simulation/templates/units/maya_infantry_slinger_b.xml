@@ -18,6 +18,6 @@
     <Entity>units/maya_infantry_slinger_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/elmirador/infantry_slinger_b.xml</Actor>
+    <Actor>units/maya/infantry_slinger_b.xml</Actor>
   </VisualActor>
 </Entity>

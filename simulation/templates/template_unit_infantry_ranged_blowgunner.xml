@@ -21,6 +21,7 @@
     </Ranged>
   </Attack>
   <Cost>
+     <BuildTime>7</BuildTime>
     <Resources>
       <wood>50</wood>
     </Resources>
@@ -29,7 +30,7 @@
     <GenericName>Skirmisher</GenericName>
   </Identity>
   <Loot>
-    <wood>5</wood>
+    <wood>1</wood>
   </Loot>
   <UnitMotion>
     <WalkSpeed op="mul">1.5</WalkSpeed>

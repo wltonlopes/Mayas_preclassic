@@ -47,7 +47,7 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>structures/elmirador/ball.xml</Actor>
+    <Actor>structures/maya/ball.xml</Actor>
     <FoundationActor>structures/fndn_8x9.xml</FoundationActor>
   </VisualActor>
 </Entity>

@@ -19,6 +19,6 @@
     <Icon>units/rome_ship_bireme.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/elmirador/canoe_war.xml</Actor>
+    <Actor>structures/maya/canoe_war.xml</Actor>
   </VisualActor>
 </Entity>

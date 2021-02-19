@@ -6,7 +6,7 @@
     <SpecificName>K'al pibil</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/elmirador/blacksmith.xml</Actor>
+    <Actor>structures/maya/blacksmith.xml</Actor>
   </VisualActor>
   <ProductionQueue>
     <Technologies datatype="tokens">

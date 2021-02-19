@@ -17,6 +17,6 @@
     <WalkSpeed op="mul">1.3</WalkSpeed>
   </UnitMotion>
   <VisualActor>
-    <Actor>units/elmirador/infantry_champion_warrior.xml</Actor>
+    <Actor>units/maya/infantry_champion_warrior.xml</Actor>
   </VisualActor>
 </Entity>

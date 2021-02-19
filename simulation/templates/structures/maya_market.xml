@@ -13,6 +13,6 @@
     <Static width="27.0" depth="27.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/elmirador/market.xml</Actor>
+    <Actor>structures/maya/market.xml</Actor>
   </VisualActor>
 </Entity>

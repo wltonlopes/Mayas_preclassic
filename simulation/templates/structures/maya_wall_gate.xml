@@ -51,7 +51,7 @@
     </TurretPoints>
   </TurretHolder>
   <VisualActor>
-    <Actor>structures/elmirador/wall_gate.xml</Actor>
+    <Actor>structures/maya/wall_gate.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>34</Length>

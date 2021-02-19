@@ -13,6 +13,6 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/elmirador/civic_center.xml</Actor>
+    <Actor>structures/maya/civic_center.xml</Actor>
   </VisualActor>
 </Entity>

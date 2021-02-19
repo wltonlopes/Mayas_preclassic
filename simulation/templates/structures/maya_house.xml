@@ -13,6 +13,6 @@
     <Static width="14.0" depth="10.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/elmirador/house.xml</Actor>
+    <Actor>structures/maya/house.xml</Actor>
   </VisualActor>
 </Entity>

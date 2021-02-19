@@ -15,6 +15,6 @@
     <SelectionGroupName>units/maya_support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/elmirador/female_citizen.xml</Actor>
+    <Actor>units/maya/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>

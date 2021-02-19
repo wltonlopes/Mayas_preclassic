@@ -12,6 +12,6 @@
     <Static width="16.0" depth="17"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/elmirador/farmstead.xml</Actor>
+    <Actor>structures/maya/farmstead.xml</Actor>
   </VisualActor>
 </Entity>

@@ -32,7 +32,7 @@
      </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/elmirador/barracks.xml</Actor>
+    <Actor>structures/maya/barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
   </VisualActor>
 </Entity>
