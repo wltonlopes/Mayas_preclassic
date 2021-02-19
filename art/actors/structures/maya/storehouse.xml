@@ -20,7 +20,7 @@
   </group>
   <group>
     <variant frequency="1" name="storehouse">
-      <mesh>structural/elmirador_storehouse.dae</mesh>
+      <mesh>structural/maya_storehouse.dae</mesh>
       <textures>
         <texture file="structural/ao/maya_storehouse_ao.png" name="aoTex"/>
       </textures>

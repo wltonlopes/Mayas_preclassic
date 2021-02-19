@@ -3,10 +3,10 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="corral">
-      <mesh>structural/elmirador_corral.dae</mesh>
+      <mesh>structural/maya_corral.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_3x5.xml" attachpoint="root"/>
-        <prop actor="props/structures/elmirador_corral_t.xml" attachpoint="root"/>
+        <prop actor="props/structures/maya_corral_t.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>

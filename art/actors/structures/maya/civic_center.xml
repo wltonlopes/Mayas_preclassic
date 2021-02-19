@@ -3,10 +3,10 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="cc">
-      <mesh>structural/elmirador_cc.dae</mesh>
+      <mesh>structural/maya_cc.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
-        <prop actor="props/structures/elmirador_stelae.xml" attachpoint="stella"/>
+        <prop actor="props/structures/maya_stelae.xml" attachpoint="stella"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
         <prop actor="structures/maya/maya_masks_cc.xml" attachpoint="root"/>
@@ -15,7 +15,7 @@
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_cc_AO.png" name="aoTex"/>
+        <texture file="structural/ao/maya_cc_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

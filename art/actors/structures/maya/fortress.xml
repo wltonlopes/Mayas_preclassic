@@ -3,11 +3,11 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Scout_Tower">
-      <mesh>structural/elmirador_eltigre.dae</mesh>
+      <mesh>structural/maya_eltigre.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
-	<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m1"/>
-	<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m2"/>
+	<prop actor="structures/maya/maya_m.xml" attachpoint="m1"/>
+	<prop actor="structures/maya/maya_m.xml" attachpoint="m2"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
       </props>
@@ -15,7 +15,7 @@
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_eltigre_AO.png" name="aoTex"/>
+        <texture file="structural/ao/maya_eltigre_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

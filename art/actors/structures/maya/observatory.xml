@@ -3,19 +3,19 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="barracks">
-      <mesh>structural/elmirador_observatory.dae</mesh>
+      <mesh>structural/maya_observatory.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_9x5.xml" attachpoint="root"/>
-		<prop actor="structures/elmirador/maya_baner.xml" attachpoint="baner_1"/>
-		<prop actor="structures/elmirador/maya_baner.xml" attachpoint="baner_2"/>
-		<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m_1"/>
-		<prop actor="structures/elmirador/elmirador_m.xml" attachpoint="m_2"/>
+		<prop actor="structures/maya/maya_baner.xml" attachpoint="baner_1"/>
+		<prop actor="structures/maya/maya_baner.xml" attachpoint="baner_2"/>
+		<prop actor="structures/maya/maya_m.xml" attachpoint="m_1"/>
+		<prop actor="structures/maya/maya_m.xml" attachpoint="m_2"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_observatory_AO.png" name="aoTex"/>
+        <texture file="structural/ao/maya_observatory_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

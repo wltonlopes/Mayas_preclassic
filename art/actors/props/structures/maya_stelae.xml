@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="1">
-      <mesh>structural/elmirador_monumento.dae</mesh>
+      <mesh>structural/maya_monumento.dae</mesh>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>

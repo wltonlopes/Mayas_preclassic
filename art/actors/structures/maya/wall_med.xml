@@ -4,7 +4,7 @@
   <group>
     <variant frequency="1" name="base">
       <props>
-	<prop actor="structures/elmirador/pali_med.xml" attachpoint="root"/>
+	<prop actor="structures/maya/pali_med.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>

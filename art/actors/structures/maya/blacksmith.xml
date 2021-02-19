@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="blacksmith">
-      <mesh>structural/elmirador_blacksmith.dae</mesh>
+      <mesh>structural/maya_blacksmith.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
         <prop actor="particle/smoke_blacksmith.xml" attachpoint="1"/>
@@ -12,7 +12,7 @@
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_blacksmith_AO.png" name="aoTex"/>
+        <texture file="structural/ao/maya_blacksmith_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="75" name="temple_b">
-      <mesh>structural/elmirador_temple_b.dae</mesh>
+      <mesh>structural/maya_temple_b.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
@@ -13,11 +13,11 @@
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_temple_b_AO.png" name="aoTex"/>
+        <texture file="structural/ao/maya_temple_b_AO.png" name="aoTex"/>
       </textures>
     </variant>
         <variant frequency="25" name="temple_a">
-      <mesh>structural/elmirador_temple_b.dae</mesh>
+      <mesh>structural/maya_temple_b.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
@@ -27,7 +27,7 @@
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
-        <texture file="structural/ao/elmirador_temple_b_AO.png" name="aoTex"/>
+        <texture file="structural/ao/maya_temple_b_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

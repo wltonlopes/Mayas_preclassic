@@ -6,11 +6,11 @@
       <mesh>structural/ball.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_6x9.xml" attachpoint="root"/>
-		<prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_1"/>
-		<prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_2"/>
-		<prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_3"/>
-		<prop actor="structures/elmirador/maya_baner_c.xml" attachpoint="baner_4"/>
-               <prop actor="structures/elmirador/ball_dec.xml" attachpoint="root"/>
+		<prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_1"/>
+		<prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_2"/>
+		<prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_3"/>
+		<prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_4"/>
+               <prop actor="structures/maya/ball_dec.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
