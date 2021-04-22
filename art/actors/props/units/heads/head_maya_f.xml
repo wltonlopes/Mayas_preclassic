@@ -16,8 +16,15 @@
         <texture file="props/head/maya_fem_b_spec.png" name="specTex"/>
       </textures>
     </variant>
-		    <variant frequency="1" name="texturec">
-      <mesh>props/new/head_female_c.dae</mesh>
+    <variant frequency="1" name="texturec">
+      <mesh>props/heads/head_mayan_f.dae</mesh>
+      <textures>
+        <texture file="props/head/maya_fem_b.png" name="baseTex"/>
+        <texture file="props/head/maya_fem_b_spec.png" name="specTex"/>
+      </textures>
+    </variant> 
+   <variant frequency="1" name="textured">
+      <mesh>props/heads/head_mayan_f_2.dae</mesh>
       <textures>
         <texture file="props/head/maya_fem_b.png" name="baseTex"/>
         <texture file="props/head/maya_fem_b_spec.png" name="specTex"/>

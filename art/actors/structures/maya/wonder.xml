@@ -13,7 +13,10 @@
 	<prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="3"/>
 	<prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_1"/>
-	    <prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_2"/>
+	<prop actor="structures/maya/maya_baner_c.xml" attachpoint="baner_2"/>
+       <prop actor="props/structures/maya_stelae.xml" attachpoint="stella_1"/>
+       <prop actor="props/structures/maya_stelae.xml" attachpoint="stella_2"/>
+       <prop actor="props/structures/maya_stelae.xml" attachpoint="stella_3"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>

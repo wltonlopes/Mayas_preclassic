@@ -6,11 +6,17 @@
       <mesh>structural/dock.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
+         <prop actor="props/structures/maya_cer.xml" attachpoint="1"/>
+         <prop actor="props/structures/maya_cer.xml" attachpoint="2"/>
+         <prop actor="props/structures/maya_cer_b.xml" attachpoint="3"/>
+         <prop actor="props/structures/maya_cer_b.xml" attachpoint="4"/>
+         <prop actor="props/structures/maya_cer.xml" attachpoint="5"/>
+         <prop actor="props/structures/maya_cer_c.xml" attachpoint="6"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
-        <texture file="structural/maya_struct_norm.png" name="normTex"/>>
+        <texture file="structural/maya_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/dock_AO.png" name="aoTex"/>
       </textures>
     </variant>

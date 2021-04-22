@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="special/player/player">
+  <Auras datatype="tokens">
+    teambonuses/maya_player_teambonus
+  </Auras>
     <EntityLimits>
     <Limits>
-      <Bigtemplecoloniacity>0</Bigtemplecoloniacity>
       <Hunterblowgunner>0</Hunterblowgunner>
     </Limits>
     <LimitChangers>
-      <Bigtemplecoloniacity>
-        <CivilCentre>2</CivilCentre>
-      </Bigtemplecoloniacity>
       <Hunterblowgunner>
-        <CivilCentre>10</CivilCentre>
+        <CivilCentre>5</CivilCentre>
       </Hunterblowgunner>
     </LimitChangers>
    </EntityLimits>

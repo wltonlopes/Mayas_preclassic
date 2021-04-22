@@ -5,6 +5,7 @@
     <variant frequency="1" name="1">
       <mesh>structural/maya_market.dae</mesh>
       <props>
+        <prop actor="props/structures/decals/dirt_market_maya.xml" attachpoint="root"/>
         <prop actor="structures/maya/stall_meso_b.xml" attachpoint="1"/>
 	<prop actor="structures/maya/stall_meso_m2.xml" attachpoint="2"/>
 	<prop actor="structures/maya/stall_meso_m.xml" attachpoint="3"/>
@@ -18,6 +19,7 @@
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
+        <texture file="structural/ao/maya_market_AO.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

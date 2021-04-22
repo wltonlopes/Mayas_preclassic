@@ -8,6 +8,8 @@
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="1"/>
         <prop actor="particle/smoke_small_light.xml" attachpoint="2"/>
+        <prop actor="props/structures/maya_stelae.xml" attachpoint="s_1"/>
+        <prop actor="props/structures/maya_stelae.xml" attachpoint="s_2"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>

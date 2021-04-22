@@ -14,7 +14,7 @@
     </variant>
 	<variant frequency="1" name="2">
       <textures>
-	    <texture file="props/shield/maya_shield_wood.png" name="baseTex"/>
+	    <texture file="props/shield/maya_shield_wood_b.png" name="baseTex"/>
       </textures>
     </variant>
     	<variant frequency="1" name="3">

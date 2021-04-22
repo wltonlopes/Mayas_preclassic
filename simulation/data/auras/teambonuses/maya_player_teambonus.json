@@ -1,0 +1,11 @@
+{
+	"type": "global",
+	"affects": ["Trader !Ship"],
+	"affectedPlayers": ["ExclusiveMutualAlly"],
+	"civ": "maya",
+	"modifications": [
+		{ "value": "Trader/GainMultiplier", "multiply": 1.10 }
+	],
+	"auraName": "Sacbe",
+	"auraDescription": "Allied Land Traders +10% trade gain."
+}

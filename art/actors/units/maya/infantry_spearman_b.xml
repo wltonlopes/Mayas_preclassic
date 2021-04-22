@@ -7,7 +7,7 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="1">
+    <variant frequency="1" name="a">
       <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
@@ -19,7 +19,7 @@
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
-	<variant frequency="1" name="2">
+	<variant frequency="1" name="b">
        <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
@@ -31,7 +31,7 @@
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
-    	<variant frequency="1" name="3">
+    	<variant frequency="1" name="c">
      <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/maya_lance.xml" attachpoint="weapon_R"/>

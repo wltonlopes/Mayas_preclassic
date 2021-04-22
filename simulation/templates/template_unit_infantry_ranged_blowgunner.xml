@@ -2,6 +2,7 @@
 <Entity parent="template_unit_infantry_ranged">
   <Attack>
     <Ranged>
+	  <AttackName>Blowgunner</AttackName>
       <Damage>
         <Hack>1</Hack>
         <Pierce>16.0</Pierce>
@@ -30,7 +31,7 @@
     <GenericName>Skirmisher</GenericName>
   </Identity>
   <Loot>
-    <wood>1</wood>
+    <wood>5</wood>
   </Loot>
   <UnitMotion>
     <WalkSpeed op="mul">1.5</WalkSpeed>

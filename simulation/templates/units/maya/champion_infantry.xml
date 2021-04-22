@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Cost>
+    <Resources>
+      <food>50</food>
+      <metal>0</metal>
+      <stone>10</stone>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>maya</Civ>
+    <SpecificName>Jaguar/night Warrior</SpecificName>
+    <Icon>units/maya_champ_2.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.4</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/maya/infantry_champion_warrior.xml</Actor>
+  </VisualActor>
+</Entity>

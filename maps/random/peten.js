@@ -398,7 +398,7 @@ placePlayersNomad(
 			g_TileClasses.animals, 1)
 	]);
 
-setSunColor(0.743, 0.746, 0.574);
+setSunColor(0.745, 0.750, 0.579);
 
 setWaterHeight(20 + heightWaterLevel);
 setWaterTint(0.224, 0.271, 0.270);
@@ -407,14 +407,14 @@ setWaterWaviness(8);
 setWaterMurkiness(0.87);
 setWaterType("clap");
 
-setTerrainAmbientColor(0.521, 0.475, 0.322);
+setAmbientColor(0.521, 0.475, 0.322);
 
 setSunRotation(-Math.PI);
 setSunElevation(Math.PI / 6.25);
 
-setFogFactor(4);
-setFogThickness(5);
-setFogColor(0.69, 0.616, 0.541);
+setFogFactor(5);
+setFogThickness(6);
+setFogColor(0.70, 0.636, 0.551);
 
 setPPEffect("hdr");
 setPPContrast(0.67);

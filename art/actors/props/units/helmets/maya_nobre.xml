@@ -18,22 +18,6 @@
         <texture file="structural/maya_struct_norm.png" name="normTex"/>
       </textures>
     </variant>
-        <variant frequency="100" name="helmetc">
-      <mesh>props/helmet/maya_b_3.dae</mesh>
-      <textures>
-        <texture file="structural/maya_struct.png" name="baseTex"/>
-        <texture file="structural/maya_struct_spec.png" name="specTex"/>
-        <texture file="structural/maya_struct_norm.png" name="normTex"/>
-      </textures>
-    </variant>
-     <variant frequency="100" name="helmetd">
-      <mesh>props/helmet/maya_b_4.dae</mesh>
-      <textures>
-        <texture file="structural/maya_struct.png" name="baseTex"/>
-        <texture file="structural/maya_struct_spec.png" name="specTex"/>
-        <texture file="structural/maya_struct_norm.png" name="normTex"/>
-      </textures>
-    </variant>
          <variant frequency="100" name="helmete">
       <mesh>props/helmet/maya_nobre_penacho.dae</mesh>
       <textures>
@@ -52,6 +36,14 @@
     </variant>
       <variant frequency="100" name="helmetg">
       <mesh>props/helmet/maya_nobre_jaguar.dae</mesh>
+      <textures>
+        <texture file="structural/maya_struct.png" name="baseTex"/>
+        <texture file="structural/maya_struct_spec.png" name="specTex"/>
+        <texture file="structural/maya_struct_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+     <variant frequency="100" name="helmeth">
+      <mesh>props/helmet/maya_nobre_chapeu.dae</mesh>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
         <texture file="structural/maya_struct_spec.png" name="specTex"/>

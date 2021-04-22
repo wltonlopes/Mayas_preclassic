@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_bireme">
+  <GarrisonHolder>
+    <Max>15</Max>
+    <List datatype="tokens">Support Soldier Siege</List>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>maya</Civ>
+    <SpecificName>Jukuub' Tok' pakal</SpecificName>
+    <Icon>units/maya_canoe_war.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/maya/canoe_war.xml</Actor>
+  </VisualActor>
+</Entity>

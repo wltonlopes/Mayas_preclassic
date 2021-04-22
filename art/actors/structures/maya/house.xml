@@ -7,8 +7,6 @@
       <props>
         <prop actor="props/structures/decals/dirt_5x3.xml" attachpoint="root"/>
         <prop actor="props/structures/maya_dec_house.xml" attachpoint="root"/>
-        <prop actor="props/structures/maya_cer.xml" attachpoint="c1"/>
-        <prop actor="props/structures/maya_cer.xml" attachpoint="c2"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
@@ -22,8 +20,6 @@
       <props>
         <prop actor="props/structures/decals/dirt_5x3.xml" attachpoint="root"/>
         <prop actor="props/structures/maya_dec_house.xml" attachpoint="root"/>
-        <prop actor="props/structures/maya_cer.xml" attachpoint="c1"/>
-        <prop actor="props/structures/maya_cer.xml" attachpoint="c2"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
@@ -37,8 +33,6 @@
       <props>
         <prop actor="props/structures/decals/dirt_5x3.xml" attachpoint="root"/>
         <prop actor="props/structures/maya_dec_house.xml" attachpoint="root"/>
-        <prop actor="props/structures/maya_cer.xml" attachpoint="c1"/>
-        <prop actor="props/structures/maya_cer.xml" attachpoint="c2"/>
       </props>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
