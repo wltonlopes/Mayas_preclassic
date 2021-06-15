@@ -2,9 +2,9 @@
 <Entity parent="template_unit_infantry_melee_spearman">
   <Builder>
     <Entities datatype="tokens">
-         structures/maya/ball_court
-	  structures/maya/observatory
-	  structures/maya/temple_of_masks
+     structures/maya/ball_court
+	   structures/maya/observatory
+	   structures/maya/temple_of_masks
     </Entities>
   </Builder>
   <Identity>

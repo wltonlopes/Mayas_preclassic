@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_spearman_hoplite">
+<Entity parent="template_unit_hero_infantry_spearman">
    <Auras datatype="tokens">
     units/heroes/maya_white_owl_jaguar
-  </Auras>
+   </Auras>
   <Identity>
     <Civ>maya</Civ>
     <GenericName>Ajaw White Owl Jaguar</GenericName>
