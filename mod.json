@@ -1,8 +1,9 @@
 {
-	"name": "maya_civilization_pre_classic",
-	"version": "0.0.24",
-	"label": "0.A.D.mayas_preclassic",
-	"url": "forum.wildfiregames.com",
-	"description": "Adds maya civilization to 0 A.D.",
-	"dependencies": ["0ad=0.0.25"]
+    "name": "maya_preclassic_0ad",
+    "version": "0.0.25",
+    "label": "Mayas preclassic",
+    "description": "Add maya civilization to 0 A.D.Oficial",
+    "dependencies": ["0ad=>0.0.26"]
 }
+
+

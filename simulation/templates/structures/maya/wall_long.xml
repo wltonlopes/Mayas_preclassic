@@ -7,7 +7,7 @@
   <Identity>
     <Civ>maya</Civ>
     <SelectionGroupName>structures/maya_wallset_stone</SelectionGroupName>
-      <GenericName>City Wall</GenericName>
+    <GenericName>City Wall</GenericName>
     <SpecificName>Pa</SpecificName>
   </Identity>
   <Obstruction>
